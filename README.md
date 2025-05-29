@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "4.Организация тестирования"
 
-![CI](https://github.com/StanislavBalov/c_c_v/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/StanislavBalov/c_c_v/actions/workflows/nodejs.yml/badge.svg)
 
 Правила сдачи задания:
 
